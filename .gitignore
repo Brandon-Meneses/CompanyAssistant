@@ -36,4 +36,7 @@ Desktop.ini
 # Other
 *.keystore
 *.jks
+<<<<<<< HEAD
 app/src/main/assets/secret.properties
+=======
+>>>>>>> 83a7c12 (cambios)
