@@ -1,0 +1,39 @@
+# Android/IntelliJ/JetBrains specific
+*.iml
+.gradle/
+local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/misc.xml
+/.idea/.gitignore
+build/
+captures/
+.externalNativeBuild/
+
+# Gradle files
+.gradle/
+build/
+gradle-app.setting
+
+# Secret files
+secret.properties
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Other
+*.keystore
+*.jks
+app/src/main/assets/secret.properties
